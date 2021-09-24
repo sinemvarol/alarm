@@ -1,0 +1,15 @@
+C:\Users\Sinem\source\repos\alarm1\alarm1\bin\Debug\netcoreapp3.1\alarm1.exe
+C:\Users\Sinem\source\repos\alarm1\alarm1\bin\Debug\netcoreapp3.1\alarm1.deps.json
+C:\Users\Sinem\source\repos\alarm1\alarm1\bin\Debug\netcoreapp3.1\alarm1.runtimeconfig.json
+C:\Users\Sinem\source\repos\alarm1\alarm1\bin\Debug\netcoreapp3.1\alarm1.runtimeconfig.dev.json
+C:\Users\Sinem\source\repos\alarm1\alarm1\bin\Debug\netcoreapp3.1\alarm1.dll
+C:\Users\Sinem\source\repos\alarm1\alarm1\bin\Debug\netcoreapp3.1\alarm1.pdb
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.csprojAssemblyReference.cache
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.Form1.resources
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.csproj.GenerateResource.cache
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.AssemblyInfoInputs.cache
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.AssemblyInfo.cs
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.csproj.CoreCompileInputs.cache
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.dll
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.pdb
+C:\Users\Sinem\source\repos\alarm1\alarm1\obj\Debug\netcoreapp3.1\alarm1.genruntimeconfig.cache
